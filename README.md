@@ -22,7 +22,7 @@ An end-to-end analysis of 86,000+ hotel bookings (July 2015 – August 2017) acr
 
 ## 🛠️ Tools & Team Contributions
 
-| Folder | Tool | Contribution | Author |
+| Folder | Tool | Contribution | 
 
 | [Python] | Python | Data cleaning and preparation |
 | [SQL] | SQL | Database relationships (ERD) and analytical queries | 
